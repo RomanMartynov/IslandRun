@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e2aad58cf34534fa324e08b587b16f, type: 3}
+  m_Name: chunkAsset_Hell
+  m_EditorClassIdentifier: 
+  _title: Lava Chunk
+  _chunk_Road: {fileID: 8676499989812059420, guid: 33c07c50f8e105e429f74c3a46498030, type: 3}
+  _chunk_Obstacle: {fileID: 8676499989812059420, guid: 33c07c50f8e105e429f74c3a46498030, type: 3}
+  _chunk_Ground: {fileID: 7352634747974446221, guid: 428c06d412ad2ea4cb24d22314779a43, type: 3}
+  _chunk_Decoration: {fileID: 8676499989812059420, guid: 33c07c50f8e105e429f74c3a46498030, type: 3}

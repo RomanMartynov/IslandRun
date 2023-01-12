@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e2aad58cf34534fa324e08b587b16f, type: 3}
+  m_Name: chunkAsset_Snow
+  m_EditorClassIdentifier: 
+  _title: Snow Chunk
+  _chunk_Road: {fileID: 2710306099470909767, guid: cf983a7653da7ad4dae18f59ba89e739, type: 3}
+  _chunk_Obstacle: {fileID: 0}
+  _chunk_Ground: {fileID: 1287744184407130848, guid: 29c5da8fb131800439f0bca96707fef2, type: 3}
+  _chunk_Decoration: {fileID: 0}
